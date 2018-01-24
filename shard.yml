@@ -1,0 +1,17 @@
+name: crystaldb
+version: 0.1.0
+
+authors:
+  - weremax <hardcode45@yahoo.com>
+
+targets:
+  crystaldb:
+    main: src/crystaldb.cr
+
+crystal: 0.24.1
+
+dependencies:
+  mysql:
+    github: crystal-lang/crystal-mysql
+
+license: MIT
