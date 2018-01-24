@@ -1,6 +1,6 @@
 # crystaldb
 
-TODO: Write a description here
+Crystal app mysql example
 
 ## Installation
 
